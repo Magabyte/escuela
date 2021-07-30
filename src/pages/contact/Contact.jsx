@@ -1,4 +1,4 @@
-import React, { Fragment, useEffect, useState } from 'react';
+import React, { Fragment } from 'react';
 import Footer from '../../components/footer/Footer';
 import correo_icon from '../../assets/img/correo_icon.png';
 import './contact.css';

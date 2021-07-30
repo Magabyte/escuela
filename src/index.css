@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.sombra_difuminada{
+	box-shadow: 0px 0px 5px rgba(0,0,0,1);
+	transition-duration: .3s;
+}
+.sombra_difuminada:hover{
+	box-shadow: 0px 0px 20px rgba(0,0,0,.9);
+}
